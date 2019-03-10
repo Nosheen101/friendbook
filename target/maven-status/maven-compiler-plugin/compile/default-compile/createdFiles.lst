@@ -1,0 +1,7 @@
+com/indorse/assigment/friend/book/repo/FriendBookRepo.class
+com/indorse/assigment/friend/book/entity/UserProfileEntity.class
+com/indorse/assigment/friend/book/rest/controller/FriendBookController.class
+com/indorse/assigment/friend/book/rest/pojo/UserProfile.class
+com/indorse/assigment/friend/book/FriendBookApplication.class
+com/indorse/assigment/friend/book/service/impl/FriendBookServiceImpl.class
+com/indorse/assigment/friend/book/service/FriendBookService.class
